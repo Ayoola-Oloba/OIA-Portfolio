@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OIA-Portfolio/static/css/main.92064408.css",
+    "main.js": "/OIA-Portfolio/static/js/main.47844d15.js",
+    "index.html": "/OIA-Portfolio/index.html",
+    "main.92064408.css.map": "/OIA-Portfolio/static/css/main.92064408.css.map",
+    "main.47844d15.js.map": "/OIA-Portfolio/static/js/main.47844d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92064408.css",
+    "static/js/main.47844d15.js"
+  ]
+}
